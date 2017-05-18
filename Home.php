@@ -74,9 +74,8 @@ Template Name: Custom Home Page
                 border-radius: 20px;
             }
         </style>
-    
-    <script>
-         function clearAll() {
+        <!-- <script>
+                  function clearAll() {
                     window.localStorage.clear();
                     window.sessionStorage.clear();
                 }
@@ -107,7 +106,7 @@ Template Name: Custom Home Page
                     }
 
                 }
-    </script>
+            </script>-->
 
     </head>
     <header>
@@ -151,7 +150,7 @@ Template Name: Custom Home Page
                     fjs.parentNode.insertBefore(js, fjs);
                 }(document, 'script', 'facebook-jssdk'));
             </script>
-
+           
             <h3 style="color:Blue">  &nbsp;&nbsp;
   Water Calculator</h3>
 
@@ -198,8 +197,7 @@ Template Name: Custom Home Page
                     return;
                 }
 
-               
-            </script>
+               </script>
 
             <br/>
             <br/>
